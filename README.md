@@ -14,7 +14,7 @@
 ## 🎯 Overview
 
 ### 🌍 SDG Challenge Addressed
-### 🌍 SDG Challenge Addressed
+
 
 - *SDG 4: Quality Education*  
   EduVerse AI enhances accessibility to quality education through immersive AR/VR learning environments, personalized AI-guided study paths, and virtual labs—making interactive, practical education available to all, regardless of location or background.
@@ -63,7 +63,7 @@ SkillBridge is a unified platform that integrates:
 |---------|------------|---------|
 | Frontend | React.js, TailwindCSS | UI, dashboards |
 | Backend | Node.js, Flask | Core APIs, microservices |
-| AI Models | OpenAI (GPT-4), Gemini Pro, GROQ | Resume analysis, job fitment |
+| AI Models | OpenAI (GPT-3.5), Gemini Pro, GROQ | Resume analysis, job fitment |
 | AR/VR | Unity3D, WebXR | Virtual labs and simulations |
 | Database | MongoDB | Resume/Course/User Data |
 | Auth | JWT | Secure login and role access |
